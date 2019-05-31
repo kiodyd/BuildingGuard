@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "圆角线框",
+    "texture": "1a0f0374-7a3d-4f70-aa0e-82b6ac1f47c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

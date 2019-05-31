@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "失败白色背景 ",
+    "texture": "7eafcd55-503d-42c3-82ae-edf8b5bd59f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      611,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      611,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

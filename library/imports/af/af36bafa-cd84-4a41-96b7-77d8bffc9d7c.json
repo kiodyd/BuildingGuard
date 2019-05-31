@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "＜＜ 滑动切换目标建筑 ＞＞",
+    "texture": "f75fc1ee-cd30-4c74-a3e9-ec55a4b33836",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      452,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      452,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

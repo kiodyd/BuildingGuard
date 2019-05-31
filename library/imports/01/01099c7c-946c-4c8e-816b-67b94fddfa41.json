@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "本轮投票 没有玩家被投出",
+    "texture": "a2f16299-2594-443d-a0ce-989379c4c53f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      269,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      269,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

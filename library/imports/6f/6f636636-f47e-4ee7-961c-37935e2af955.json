@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "帮助牌子",
+    "texture": "d776b3f0-b2de-49b2-89c8-264cd3024729",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      533,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      533,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

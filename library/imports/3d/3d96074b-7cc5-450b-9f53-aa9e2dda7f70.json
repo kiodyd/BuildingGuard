@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "嵩岳寺塔(22)",
+    "texture": "d8d14980-eba2-4fdd-96cf-7b13fc9f0bb2",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      360,
+      389
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      361,
+      390
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "完成度",
+    "texture": "c013d1a3-fd55-438d-b86a-f9eaf9bb33e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

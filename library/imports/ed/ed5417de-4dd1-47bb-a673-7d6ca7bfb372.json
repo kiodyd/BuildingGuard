@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "眼睛开",
+    "texture": "0bd5988f-01b9-4185-bec5-09cce0e071c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

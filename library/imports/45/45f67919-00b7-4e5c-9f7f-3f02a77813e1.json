@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "积木_0000s_0015_23",
+    "texture": "9dcacd47-1682-4df4-ba4c-55a90ce9c075",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

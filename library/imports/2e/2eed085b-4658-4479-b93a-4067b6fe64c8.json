@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "投票结果",
+    "texture": "45007d3a-1ae1-4ad4-b32e-10678b0458ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

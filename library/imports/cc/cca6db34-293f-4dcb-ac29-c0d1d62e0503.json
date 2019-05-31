@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "12345",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.033333333333333,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 3.033333333333333,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.033333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "5c112284-09c6-4193-951a-c97085d5c8a0"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "5c54402a-8490-49ad-88e7-b47bdcb770e5"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "aeb7d635-9b61-48b5-b028-04a3a4c7c281"
+                }
+              },
+              {
+                "frame": 3,
+                "value": {
+                  "__uuid__": "91e152a4-128d-4571-ae57-dfa5e0232123"
+                }
+              },
+              {
+                "frame": 4,
+                "value": {
+                  "__uuid__": "d3e384eb-472c-4283-ac48-292059622306"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "黄鹤楼线框 ": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "你是保卫者！",
+    "texture": "3373f2aa-f838-4fde-b847-bd644155e327",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

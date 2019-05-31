@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "投票",
+    "texture": "e832a3d5-c6c4-4c5e-8b86-3ad18a16f6ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

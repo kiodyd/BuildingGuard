@@ -1,0 +1,2367 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1553166094010,
+    "meta": 1549769518000,
+    "relativePath": "image"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1553166062617,
+    "meta": 1549769518000,
+    "relativePath": "misc"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1553166094166,
+    "meta": 1549769518000,
+    "relativePath": "obsolete"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1553166094166,
+    "meta": 1549769518000,
+    "relativePath": "particle"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1553166094010,
+    "meta": 1549769518000,
+    "relativePath": "prefab"
+  },
+  "395b522f-66d9-4d33-9f69-8555cb075a14": {
+    "asset": 1559287209596,
+    "meta": 1559287209626,
+    "relativePath": "scenes\\game_scene.fire"
+  },
+  "577c44fd-ad30-4334-8f0c-dba5ea851d19": {
+    "asset": 1559190771128,
+    "meta": 1552899842000,
+    "relativePath": "prefabs"
+  },
+  "a01c0e9e-3b16-4792-adb2-d6f2da97acbc": {
+    "asset": 1559223027604,
+    "meta": 1559223027628,
+    "relativePath": "prefabs\\1.prefab"
+  },
+  "8cf87706-f291-490f-b079-3ceb5daba399": {
+    "asset": 1559224414247,
+    "meta": 1559224414279,
+    "relativePath": "prefabs\\2.prefab"
+  },
+  "c0423216-6aae-4467-8ae4-525febc94e3b": {
+    "asset": 1553499774000,
+    "meta": 1558194924162,
+    "relativePath": "prefabs\\no3.prefab"
+  },
+  "ec9f7c7c-4306-4698-b9ca-8efbc843dd66": {
+    "asset": 1559223164876,
+    "meta": 1559223164892,
+    "relativePath": "prefabs\\4.prefab"
+  },
+  "5304149f-9b45-4565-867f-1f1292f681b2": {
+    "asset": 1559223242269,
+    "meta": 1559223242285,
+    "relativePath": "prefabs\\5.prefab"
+  },
+  "0dea17b7-ee2b-4385-b761-32fb1d54975c": {
+    "asset": 1553006352000,
+    "meta": 1558194924176,
+    "relativePath": "prefabs\\plane.prefab"
+  },
+  "af2b0f42-3c92-47ef-9b98-a13e890bf208": {
+    "asset": 1553499790000,
+    "meta": 1558194924169,
+    "relativePath": "prefabs\\no6.prefab"
+  },
+  "f601bd5f-526b-4dcc-bc74-2f5c362ebd24": {
+    "asset": 1559223135489,
+    "meta": 1559223135515,
+    "relativePath": "prefabs\\3.prefab"
+  },
+  "2c247591-4e49-464e-b504-34acbb59c7b9": {
+    "asset": 1557236934000,
+    "meta": 1558194924047,
+    "relativePath": "animations\\shake.anim"
+  },
+  "cdb81809-e97a-4100-976e-de694424ecd7": {
+    "asset": 1558193996750,
+    "meta": 1553096338000,
+    "relativePath": "textures"
+  },
+  "8c20f21b-3bb9-4a2c-95b5-7aacbdbdc456": {
+    "asset": 1553096356000,
+    "meta": 1558194928684,
+    "relativePath": "textures\\7.png"
+  },
+  "44f00003-9ca0-47a9-8e72-8e631c8364c3": {
+    "asset": 1553096356000,
+    "meta": 1558194928626,
+    "relativePath": "textures\\2.png"
+  },
+  "d36730de-1b1a-492e-b6b3-23c48d1c7952": {
+    "asset": 1553096356000,
+    "meta": 1558194928633,
+    "relativePath": "textures\\1.png"
+  },
+  "a8f68bbb-b0b4-4881-aa4e-53ef71749561": {
+    "asset": 1553096356000,
+    "meta": 1558194928690,
+    "relativePath": "textures\\8.png"
+  },
+  "a7a0eae2-56d6-4ecd-9c46-ee4b304e40e8": {
+    "asset": 1553096356000,
+    "meta": 1558194928664,
+    "relativePath": "textures\\6.png"
+  },
+  "b15860a6-8e9c-4d68-bba6-6ccd57313e5c": {
+    "asset": 1553096356000,
+    "meta": 1558194928651,
+    "relativePath": "textures\\4.png"
+  },
+  "fa699807-6274-4fb3-af15-832a0d65a8ca": {
+    "asset": 1553096356000,
+    "meta": 1558194928646,
+    "relativePath": "textures\\3.png"
+  },
+  "c6a986c0-6f72-475b-8a1e-31059ef00541": {
+    "asset": 1553096356000,
+    "meta": 1558194928668,
+    "relativePath": "textures\\5.png"
+  },
+  "df032271-e561-42f6-8883-874508d94767": {
+    "asset": 1557236934000,
+    "meta": 1558194924053,
+    "relativePath": "animations\\smooke.anim"
+  },
+  "864b8f06-6625-4232-9bb8-2c58e8625842": {
+    "asset": 1553136866000,
+    "meta": 1558194928069,
+    "relativePath": "scenes\\test.fire"
+  },
+  "26f46d85-e9ff-41e8-883d-7127794cb1c8": {
+    "asset": 1559190793652,
+    "meta": 1553494526000,
+    "relativePath": "animations"
+  },
+  "54e248b3-6fdc-484c-80a7-8f042f567024": {
+    "asset": 1558193996494,
+    "meta": 1553494552000,
+    "relativePath": "scenes"
+  },
+  "ed1b1511-73bc-4c2b-b11a-afab5e07889c": {
+    "asset": 1553495936000,
+    "meta": 1558194924190,
+    "relativePath": "prefabs\\smooke.prefab"
+  },
+  "5be7c7c5-3d86-45b0-a1c8-ebf836d9620d": {
+    "asset": 1556439106000,
+    "meta": 1558194924146,
+    "relativePath": "prefabs\\btn_player.prefab"
+  },
+  "29bb1975-1a57-4f86-ad9c-d57275a7151e": {
+    "asset": 1559222876684,
+    "meta": 1557925974000,
+    "relativePath": "res"
+  },
+  "05e40692-f6b3-492a-8d1b-0abfefb20487": {
+    "asset": 1558193996202,
+    "meta": 1557925988000,
+    "relativePath": "res\\start"
+  },
+  "58e70eed-194f-4538-bd89-c98de1c9a419": {
+    "asset": 1559286616122,
+    "meta": 1557928038000,
+    "relativePath": "res\\start\\1_1游戏封面"
+  },
+  "47ebd079-77d9-4b84-a98c-3fb6379873d2": {
+    "asset": 1558193995783,
+    "meta": 1557928038000,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)"
+  },
+  "cba105e6-d516-487b-80f4-849a8495c782": {
+    "asset": 1557928038000,
+    "meta": 1558194926232,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1).zip"
+  },
+  "1a0f0374-7a3d-4f70-aa0e-82b6ac1f47c2": {
+    "asset": 1557928038000,
+    "meta": 1558194926226,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\圆角线框.png"
+  },
+  "35111710-c3c8-4294-a77f-338284b1d183": {
+    "asset": 1557928038000,
+    "meta": 1558194926247,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\帮助.png"
+  },
+  "fa3764a8-4af3-4025-aa13-898651689e7c": {
+    "asset": 1557928038000,
+    "meta": 1558194926254,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\开始按钮未点击状态.png"
+  },
+  "b1aad129-f28b-4e48-8bf1-bb87f885b74c": {
+    "asset": 1557928038000,
+    "meta": 1558194926268,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\按钮点击状态.png"
+  },
+  "4c82cd7a-0433-482d-b322-0a526cd72250": {
+    "asset": 1557928038000,
+    "meta": 1558194926275,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\标题.png"
+  },
+  "65eb3439-737f-4492-9dd6-3ca9df5dccf5": {
+    "asset": 1557928038000,
+    "meta": 1558194926292,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\音乐.png"
+  },
+  "88abf308-5863-43dd-ab78-8ef346caa8eb": {
+    "asset": 1557928038000,
+    "meta": 1558194926481,
+    "relativePath": "res\\start\\1_1游戏封面\\建筑保卫战_slices (1)\\背景.png"
+  },
+  "ba17cbf0-7449-478f-9888-f90d8d13e886": {
+    "asset": 1559286626660,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图"
+  },
+  "f2a7e805-fe43-45d5-ab7d-b31fee9d28e2": {
+    "asset": 1558193996035,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)"
+  },
+  "34b12cca-eee5-45a8-896a-df8a22f62d04": {
+    "asset": 1557928166000,
+    "meta": 1558194926676,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4).zip"
+  },
+  "a7420595-659d-4646-9cbf-848a00604397": {
+    "asset": 1557928166000,
+    "meta": 1558194926689,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\＜＜ 滑动切换目标建筑 ＞＞.png"
+  },
+  "7777c99f-1c8c-47e2-b293-459156d670c9": {
+    "asset": 1557928166000,
+    "meta": 1558194926715,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\关闭按钮.png"
+  },
+  "10034649-cac7-4626-89be-d616a359b38a": {
+    "asset": 1557928166000,
+    "meta": 1558194926732,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\帮助.png"
+  },
+  "857bf42f-a22a-4f8a-bd34-4a1d94ac2ad3": {
+    "asset": 1557928166000,
+    "meta": 1558194926740,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\帮助牌子.png"
+  },
+  "8d1bc431-0feb-4f46-85cc-6ad0460d7c5c": {
+    "asset": 1557928166000,
+    "meta": 1558194926758,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\按钮红.png"
+  },
+  "667a8440-b6f9-40c8-b101-9c0702b815b3": {
+    "asset": 1557928166000,
+    "meta": 1558194926765,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\按钮2.png"
+  },
+  "d570c4e5-2605-4bf1-a602-053252f8a09c": {
+    "asset": 1557928166000,
+    "meta": 1558194926782,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\破坏者.png"
+  },
+  "e97daaf9-bfe9-47e6-bf68-92cd5d5a136a": {
+    "asset": 1557928166000,
+    "meta": 1558194926788,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\标题.png"
+  },
+  "0a9a7095-ed71-458e-a3f4-f361fee3dda1": {
+    "asset": 1557928166000,
+    "meta": 1558194926804,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\组 12.png"
+  },
+  "aa572eeb-ac18-4832-95f0-c2a681f3d11a": {
+    "asset": 1557928166000,
+    "meta": 1558194926811,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\破坏者规则.png"
+  },
+  "8c6f482f-d76c-4436-83c5-d8a744ca8310": {
+    "asset": 1557928166000,
+    "meta": 1558194926829,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\组 13.png"
+  },
+  "81b0421d-0cca-49e0-8df1-884859efd0c0": {
+    "asset": 1557928166000,
+    "meta": 1558194926858,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\背景变暗遮罩.png"
+  },
+  "f2c143bf-69a8-4065-a356-eb46ed691096": {
+    "asset": 1559286629542,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\1_2帮助 切图"
+  },
+  "48806cac-24b5-4f1c-b735-0cd8f4ed6364": {
+    "asset": 1557928166000,
+    "meta": 1558194926845,
+    "relativePath": "res\\start\\1_2_2帮助_破坏者 切图\\建筑保卫战_slices (4)\\音乐.png"
+  },
+  "35a39a43-b273-4e61-9f04-b5e72d63d651": {
+    "asset": 1558193996200,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices"
+  },
+  "9e94623b-b635-4a74-bf2b-21dfbff91e4f": {
+    "asset": 1557928166000,
+    "meta": 1558194926872,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices.zip"
+  },
+  "f75fc1ee-cd30-4c74-a3e9-ec55a4b33836": {
+    "asset": 1557928166000,
+    "meta": 1558194926884,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\＜＜ 滑动切换目标建筑 ＞＞.png"
+  },
+  "5ec388b5-4583-4122-be86-596c303e830b": {
+    "asset": 1557928166000,
+    "meta": 1558194926902,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\2.png"
+  },
+  "5d72ebd9-414e-45de-bc91-68754427559e": {
+    "asset": 1557928166000,
+    "meta": 1558194926925,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\2(1).png"
+  },
+  "148b362f-c170-4b07-8564-757883857ba8": {
+    "asset": 1557928166000,
+    "meta": 1558194926946,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\保卫者.png"
+  },
+  "700d139e-d449-4921-8978-3c0668326f56": {
+    "asset": 1557928166000,
+    "meta": 1558194926953,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\关闭按钮.png"
+  },
+  "02743f0b-ac6d-4507-b63a-734a85d96b0e": {
+    "asset": 1557928166000,
+    "meta": 1558194926975,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\头巾.png"
+  },
+  "badde3c6-00b2-4ecd-8d62-c5dfb708bf46": {
+    "asset": 1557928166000,
+    "meta": 1558194926970,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\帮助.png"
+  },
+  "7ee09868-4d0e-4f59-a2e4-ec1bbfe70c80": {
+    "asset": 1557928166000,
+    "meta": 1558194926993,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\形状 27.png"
+  },
+  "5fba8a53-b64f-414b-9aa0-cd71523d4be7": {
+    "asset": 1557928166000,
+    "meta": 1558194926998,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\按钮2.png"
+  },
+  "0c0fb21e-08d7-4ee1-8b72-7e9834a15b93": {
+    "asset": 1557928166000,
+    "meta": 1558194927015,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\游戏规则.png"
+  },
+  "394c235e-c09e-47fb-80ac-2937cbe6a791": {
+    "asset": 1557928166000,
+    "meta": 1558194927022,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\标题.png"
+  },
+  "96840c18-ba91-41e0-9a12-cd6e5c6c708d": {
+    "asset": 1557928166000,
+    "meta": 1558194927043,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\眼罩.png"
+  },
+  "27f60053-f517-44ab-ae85-ce8f96e7a2fe": {
+    "asset": 1557928166000,
+    "meta": 1558194927038,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\矩形 35 拷贝 2.png"
+  },
+  "5a24a86a-2fc8-4648-83d2-9e6d77a04da4": {
+    "asset": 1557928166000,
+    "meta": 1558194927059,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\破坏者.png"
+  },
+  "ec8617dd-8f48-4666-b524-8ee6774b1637": {
+    "asset": 1557928166000,
+    "meta": 1558194927065,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\矩形 518.png"
+  },
+  "69a1e493-c102-4a40-ad1a-f9fdc07d111d": {
+    "asset": 1557928166000,
+    "meta": 1558194927077,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\组 13.png"
+  },
+  "0c6c4212-25d6-46ce-b92f-10d80d7c5078": {
+    "asset": 1557928166000,
+    "meta": 1558194927084,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\组 12.png"
+  },
+  "409050c5-59e4-4709-a82b-8cefecd2ba86": {
+    "asset": 1557928166000,
+    "meta": 1558194927099,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\组 15.png"
+  },
+  "ed00dc64-26e0-4be5-b581-e03ec585b885": {
+    "asset": 1557928166000,
+    "meta": 1558194927104,
+    "relativePath": "res\\start\\1_2帮助 切图\\建筑保卫战_slices\\邀请按钮.png"
+  },
+  "fdbb2cb1-d50c-418e-8843-994f01ed2d3c": {
+    "asset": 1559286633220,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\2准备中 切图"
+  },
+  "fa1311f9-e337-4aa9-9433-4a1245469bb2": {
+    "asset": 1558193996332,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)"
+  },
+  "973faaa5-92e6-40fd-aaef-4c2a1d908623": {
+    "asset": 1557928166000,
+    "meta": 1558194927115,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2).zip"
+  },
+  "de49db71-ea3b-4db5-83fa-94ae8d063694": {
+    "asset": 1557928166000,
+    "meta": 1558194927127,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\＜＜ 滑动切换目标建筑 ＞＞.png"
+  },
+  "673e18d3-b25a-4758-87e0-bbfe386ea7a2": {
+    "asset": 1557928166000,
+    "meta": 1558194927144,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\2.png"
+  },
+  "3e307aaf-cd09-4cdf-8540-df518ee9855a": {
+    "asset": 1557928166000,
+    "meta": 1558194927159,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\2(1).png"
+  },
+  "159ba28f-d438-4021-8dc2-6be1650ae85b": {
+    "asset": 1557928166000,
+    "meta": 1558194927179,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\帮助.png"
+  },
+  "d38ec59f-3483-4cf7-b90e-f3bba1eb507e": {
+    "asset": 1557928166000,
+    "meta": 1558194927202,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\形状 27.png"
+  },
+  "b4820687-4f4c-4a8a-9162-4386601b5b6b": {
+    "asset": 1557928166000,
+    "meta": 1558194927207,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\按钮2.png"
+  },
+  "bc5cffce-1141-4fb2-b52d-7bfbab64e1d7": {
+    "asset": 1557928166000,
+    "meta": 1558194927225,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\标题.png"
+  },
+  "1a3d736d-a1bc-4c58-b275-a0d191b9d0b0": {
+    "asset": 1557928166000,
+    "meta": 1558194927246,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\矩形 518.png"
+  },
+  "ae8dac21-633b-4889-89d2-dbe2fafa9cbe": {
+    "asset": 1557928166000,
+    "meta": 1558194927220,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\矩形 35 拷贝 2.png"
+  },
+  "ff4d7da2-21ef-470d-b046-a6b209389c29": {
+    "asset": 1557928166000,
+    "meta": 1558194927241,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\组 12.png"
+  },
+  "e881df22-960e-46c6-b3cc-f99c9dc3f193": {
+    "asset": 1557928166000,
+    "meta": 1558194927259,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\组 13.png"
+  },
+  "b11f47fc-0e9a-4f17-8b48-64696373a65b": {
+    "asset": 1557928166000,
+    "meta": 1558194927266,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\组 15.png"
+  },
+  "99ab2492-bcd3-4265-9575-74e67ab8f1af": {
+    "asset": 1557928166000,
+    "meta": 1558194927278,
+    "relativePath": "res\\start\\2准备中 切图\\建筑保卫战_slices (2)\\邀请按钮.png"
+  },
+  "d194cf69-10b5-46a9-a07a-b2de31e740d9": {
+    "asset": 1559286622868,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图"
+  },
+  "04575737-c082-4e27-a0ae-111cd987f486": {
+    "asset": 1558193995911,
+    "meta": 1557928166000,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)"
+  },
+  "a295539e-5898-43e8-9ad8-e2bf950d2b75": {
+    "asset": 1557928166000,
+    "meta": 1558194926500,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3).zip"
+  },
+  "0de917a9-4676-4b72-b4d6-088037fff2ab": {
+    "asset": 1557928166000,
+    "meta": 1558194926504,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\＜＜ 滑动切换目标建筑 ＞＞.png"
+  },
+  "f15a6506-cec7-40ca-b45d-687f0b640c12": {
+    "asset": 1557928166000,
+    "meta": 1558194926518,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\保卫者.png"
+  },
+  "f479a441-02e8-4173-8f06-a86d2582ef55": {
+    "asset": 1557928166000,
+    "meta": 1558194926524,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\关闭按钮.png"
+  },
+  "d03c201d-5320-42ce-b941-cde6ee9c8762": {
+    "asset": 1557928166000,
+    "meta": 1558194926546,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\完成度达到   .png"
+  },
+  "e1d03c6c-7bc2-4f87-9972-48ac8a52debd": {
+    "asset": 1557928166000,
+    "meta": 1558194926541,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\帮助.png"
+  },
+  "d776b3f0-b2de-49b2-89c8-264cd3024729": {
+    "asset": 1557928166000,
+    "meta": 1558194926569,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\帮助牌子.png"
+  },
+  "1747a8c9-2e04-4dc5-a582-c24b77832d17": {
+    "asset": 1557928166000,
+    "meta": 1558194926562,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\形状 27.png"
+  },
+  "83db3123-6dd0-43ce-a215-3d3e1d3145ea": {
+    "asset": 1557928166000,
+    "meta": 1558194926584,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\形状 621.png"
+  },
+  "3321968f-630b-4534-b6ee-c42e16ea4b87": {
+    "asset": 1557928166000,
+    "meta": 1558194926615,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\标题.png"
+  },
+  "3306454c-f525-4972-9686-4b76724ce153": {
+    "asset": 1557928166000,
+    "meta": 1558194926591,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\按钮2.png"
+  },
+  "30a1455e-776b-4ad4-8bda-f2983c7a3e1a": {
+    "asset": 1557928166000,
+    "meta": 1558194926607,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\组 12.png"
+  },
+  "cbbd14e7-1132-4bcd-abc9-cffa5782de47": {
+    "asset": 1557928166000,
+    "meta": 1558194926629,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\组 13.png"
+  },
+  "6c7f01b7-2fe5-4a88-a767-e58f28c15334": {
+    "asset": 1557928166000,
+    "meta": 1558194926662,
+    "relativePath": "res\\start\\1_2_1帮助_保卫者 切图\\建筑保卫战_slices (3)\\背景变暗遮罩.png"
+  },
+  "a4c813ce-5ee8-4cf8-85d3-354621a56c90": {
+    "asset": 1559286547428,
+    "meta": 1557928174000,
+    "relativePath": "res\\game"
+  },
+  "6a8dface-72cb-40dd-b03f-d700f1cdf854": {
+    "asset": 1559211537386,
+    "meta": 1557930208000,
+    "relativePath": "res\\背景"
+  },
+  "83b9e77a-e7cf-4a53-aaef-32c44dd81542": {
+    "asset": 1557930208000,
+    "meta": 1558194927366,
+    "relativePath": "res\\背景\\background3.png"
+  },
+  "19cac1ec-bc7a-4305-bf96-3ce802ed0a6e": {
+    "asset": 1557930208000,
+    "meta": 1559211583190,
+    "relativePath": "resources\\texture\\c3.png"
+  },
+  "5d7b10d5-6945-481b-a5bc-343343bfb17e": {
+    "asset": 1557930208000,
+    "meta": 1558194927329,
+    "relativePath": "res\\背景\\background2.png"
+  },
+  "152e5e34-166c-42d5-ac3e-572743b542bc": {
+    "asset": 1557930208000,
+    "meta": 1559211578113,
+    "relativePath": "resources\\texture\\c2.png"
+  },
+  "10294abb-814b-4f7a-b538-6e3a2e570f22": {
+    "asset": 1557930208000,
+    "meta": 1558194927315,
+    "relativePath": "res\\背景\\background1.png"
+  },
+  "8f055282-bcab-472b-b09f-5ccc5b3fd443": {
+    "asset": 1557930208000,
+    "meta": 1558194927427,
+    "relativePath": "res\\背景\\游戏封面.png"
+  },
+  "794cbbae-6f79-490f-af72-cc54083d51d4": {
+    "asset": 1557930208000,
+    "meta": 1559211573562,
+    "relativePath": "resources\\texture\\c1.png"
+  },
+  "2ffa78a5-a6ac-4d0a-8585-7f72f11cb759": {
+    "asset": 1557983224000,
+    "meta": 1558194924195,
+    "relativePath": "prefabs\\帮助.prefab"
+  },
+  "58a6f60e-2824-406a-846f-99211714e18f": {
+    "asset": 1557983266000,
+    "meta": 1558194924210,
+    "relativePath": "prefabs\\音乐.prefab"
+  },
+  "b9cf2a1d-40de-4b1d-97c7-fd142336b113": {
+    "asset": 1557983278000,
+    "meta": 1558194924203,
+    "relativePath": "prefabs\\用户.prefab"
+  },
+  "5c2913ca-0214-4e70-b526-9808136a5bcf": {
+    "asset": 1559286425825,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\1_2"
+  },
+  "a4d65654-5ed9-4d31-addc-bfc834ef260e": {
+    "asset": 1558193994605,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)"
+  },
+  "ce9f39b4-ac01-492b-8628-d2591addacdc": {
+    "asset": 1557985554000,
+    "meta": 1558194924448,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6).zip"
+  },
+  "5c7ed1aa-5498-4593-8530-d463c23bd55f": {
+    "asset": 1557985554000,
+    "meta": 1558194924461,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\1.png"
+  },
+  "dce02e3e-0fcc-4674-9f0a-cd460f80ccd4": {
+    "asset": 1557985554000,
+    "meta": 1558194924486,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\2.png"
+  },
+  "8b63883e-118b-40aa-b460-6c9731c2c4e6": {
+    "asset": 1557985554000,
+    "meta": 1558194924502,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\3.png"
+  },
+  "9e77fc05-5573-4cb1-9ab8-7a1aa967946f": {
+    "asset": 1557985554000,
+    "meta": 1558194924508,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\4.png"
+  },
+  "4e050d71-a1a5-4260-a02c-d85f344a981a": {
+    "asset": 1557985554000,
+    "meta": 1558194924528,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\5.png"
+  },
+  "e5f4728f-6208-4c64-a92b-edc7c697d7b1": {
+    "asset": 1557985554000,
+    "meta": 1558194924524,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\装饰线右.png"
+  },
+  "92647d28-c043-49a8-aff4-42a71a247b17": {
+    "asset": 1557985554000,
+    "meta": 1558194924547,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\装饰线左.png"
+  },
+  "2dc02b43-5d3b-4431-936a-e6d287f8948f": {
+    "asset": 1557985554000,
+    "meta": 1558194924556,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\黄鹤楼线框.png"
+  },
+  "b58d3833-6824-4973-9d41-ec0a7d57626e": {
+    "asset": 1559286413811,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\1_0身份分配"
+  },
+  "4c8ff77a-1a25-4a3b-8602-e319c123e628": {
+    "asset": 1557985554000,
+    "meta": 1558194924600,
+    "relativePath": "res\\game\\1_2\\建筑保卫战_slices (6)\\黑色蒙版.png"
+  },
+  "9d8c5ef1-dd3c-4f7f-8ed1-736adcaa927f": {
+    "asset": 1558193994437,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)"
+  },
+  "fe9a8687-2c96-4135-95c2-754239e174ac": {
+    "asset": 1557985554000,
+    "meta": 1558194924222,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5).zip"
+  },
+  "3373f2aa-f838-4fde-b847-bd644155e327": {
+    "asset": 1557985554000,
+    "meta": 1558194924239,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)\\你是保卫者！.png"
+  },
+  "c1b69f4e-076b-4967-80b9-4af4bef1dffa": {
+    "asset": 1557985554000,
+    "meta": 1558194924252,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)\\你是破坏者！.png"
+  },
+  "3fea43be-6375-4bc5-96c9-7ae413dff20c": {
+    "asset": 1557985554000,
+    "meta": 1558194924277,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)\\保卫者形象.png"
+  },
+  "52e0bbd3-ca8c-40ce-bb8e-770cc4a3cd9d": {
+    "asset": 1557985554000,
+    "meta": 1558194924306,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)\\白色背景.png"
+  },
+  "71bdfd4a-913e-493d-82fd-16e979f63828": {
+    "asset": 1557985554000,
+    "meta": 1558194924299,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)\\白色背景(1).png"
+  },
+  "f94d6b8e-0f47-43d3-a1e8-828e48ed7584": {
+    "asset": 1559286419685,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\1_1线框预览"
+  },
+  "2ca9a5a3-7fc6-4dbb-819d-8d6cabf21586": {
+    "asset": 1557985554000,
+    "meta": 1558194924325,
+    "relativePath": "res\\game\\1_0身份分配\\建筑保卫战_slices (5)\\破坏者形象.png"
+  },
+  "32c31c0a-8e41-4e6c-8e6a-87248d0d78c8": {
+    "asset": 1558193994513,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10)"
+  },
+  "05368530-2271-4c1b-ae98-b6f0470043ea": {
+    "asset": 1557985554000,
+    "meta": 1558194924338,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10).zip"
+  },
+  "0bd5988f-01b9-4185-bec5-09cce0e071c2": {
+    "asset": 1557985554000,
+    "meta": 1558194924380,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10)\\眼睛开.png"
+  },
+  "e0134770-bab7-45b7-a809-43758b5ea9bb": {
+    "asset": 1557985554000,
+    "meta": 1558194924355,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10)\\你是破坏者！ 不可以查看蓝图哦.png"
+  },
+  "49ef69d8-38da-4696-bd95-5f91a60ab708": {
+    "asset": 1557985554000,
+    "meta": 1558194924387,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10)\\祥云 .png"
+  },
+  "b81792d5-49ac-4a5c-babf-671b449dbb10": {
+    "asset": 1557985554000,
+    "meta": 1558194924413,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10)\\黄鹤楼线框 .png"
+  },
+  "eea27e71-c63f-4960-88bd-3b668e8cf0c2": {
+    "asset": 1559286442906,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\3_0投票环节"
+  },
+  "fa6a770a-d034-4f36-9084-ce12c294fdb9": {
+    "asset": 1557985554000,
+    "meta": 1558194924435,
+    "relativePath": "res\\game\\1_1线框预览\\建筑保卫战_slices (10)\\黑色蒙版 拷贝.png"
+  },
+  "75825790-d800-448d-a2f6-9b893f7d99be": {
+    "asset": 1558193994995,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)"
+  },
+  "b5cb8d01-8583-4af6-ba81-6c3893b4f571": {
+    "asset": 1557985554000,
+    "meta": 1558194925016,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11).zip"
+  },
+  "7a03b15f-7921-48e9-ac57-e530824212e1": {
+    "asset": 1557985554000,
+    "meta": 1558194925031,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\头像白框.png"
+  },
+  "4089a94c-826a-4208-bc4c-e842fe544e4d": {
+    "asset": 1557985554000,
+    "meta": 1558194925051,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\弹出框.png"
+  },
+  "e832a3d5-c6c4-4c5e-8b86-3ad18a16f6ba": {
+    "asset": 1557985554000,
+    "meta": 1558194925074,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\投票.png"
+  },
+  "8f91d050-45c2-4103-9953-e524b917d1f7": {
+    "asset": 1557985554000,
+    "meta": 1558194925080,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\投票标题框.png"
+  },
+  "f961e631-05d0-4553-bebb-26f74d596074": {
+    "asset": 1557985554000,
+    "meta": 1558194925099,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\被选中头像绿框.png"
+  },
+  "2572bcd8-e86e-477d-9e76-ae8584fd2dad": {
+    "asset": 1557985554000,
+    "meta": 1558194925105,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\点击最可疑玩家头像 投TA一票！.png"
+  },
+  "848e9e25-9fb4-460e-880d-688906c2ad44": {
+    "asset": 1559286446821,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\3_1玩家被投出"
+  },
+  "17bf2009-f054-45e7-96c7-3746cf242bf7": {
+    "asset": 1557985554000,
+    "meta": 1558194925152,
+    "relativePath": "res\\game\\3_0投票环节\\建筑保卫战_slices (11)\\黑色蒙版.png"
+  },
+  "ba08e4a8-6bde-45ea-b9ad-ba8bc7091b60": {
+    "asset": 1558193995111,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)"
+  },
+  "a9d1508e-9b4e-4804-98c9-4b6bba4a968a": {
+    "asset": 1557985554000,
+    "meta": 1558194925166,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12).zip"
+  },
+  "45007d3a-1ae1-4ad4-b32e-10678b0458ba": {
+    "asset": 1557985554000,
+    "meta": 1558194925185,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\投票结果.png"
+  },
+  "9451dc75-271c-4b9b-852e-bf2e8aba5ece": {
+    "asset": 1557985554000,
+    "meta": 1558194925202,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\弹出框.png"
+  },
+  "732cef94-52cd-4628-b029-c59145fea6dd": {
+    "asset": 1557985554000,
+    "meta": 1558194925225,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\红色警示框大.png"
+  },
+  "1fbe9c69-48cf-4264-be19-0bf70b31e339": {
+    "asset": 1557985554000,
+    "meta": 1558194925209,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\本轮投票 小黑 玩家被投出！.png"
+  },
+  "3ed2013b-c415-43d1-b185-a4795ca514af": {
+    "asset": 1557985554000,
+    "meta": 1558194925232,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\红色警示框小.png"
+  },
+  "ecd89979-8429-4f73-8b45-72ac1a5ac5d6": {
+    "asset": 1557985554000,
+    "meta": 1558194925248,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\装饰线右.png"
+  },
+  "999fd111-f133-4f7b-a1a2-77e79727d898": {
+    "asset": 1557985554000,
+    "meta": 1558194925255,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\装饰线左.png"
+  },
+  "da31b8f2-8aed-4bd7-a365-b89e55a448ad": {
+    "asset": 1557985554000,
+    "meta": 1558194925278,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\钉子 拷贝 2.png"
+  },
+  "f539aef8-71e7-46a6-97fa-a4a29001dd5d": {
+    "asset": 1557985554000,
+    "meta": 1558194925295,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\钉子 拷贝 4.png"
+  },
+  "198f6aa6-7519-4020-bd3e-ded3cccaf9d0": {
+    "asset": 1557985554000,
+    "meta": 1558194925273,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\钉子 拷贝 3.png"
+  },
+  "b654d498-e52d-4fe9-8fcd-472c93031d3e": {
+    "asset": 1557985554000,
+    "meta": 1558194925302,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\钉子 拷贝.png"
+  },
+  "e3208726-fbc7-475b-a394-3018cd3951d9": {
+    "asset": 1557985554000,
+    "meta": 1558194925320,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\钉子.png"
+  },
+  "274c8cdd-2c0a-4d2b-b01e-3720a75cedea": {
+    "asset": 1559286450792,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\3_2无玩家被踢"
+  },
+  "99884a84-edf0-4cd3-9706-1f11bfab94a1": {
+    "asset": 1557985554000,
+    "meta": 1558194925352,
+    "relativePath": "res\\game\\3_1玩家被投出\\建筑保卫战_slices (12)\\黑色蒙版.png"
+  },
+  "971c37cc-b886-411f-839e-521d938001dc": {
+    "asset": 1558193995202,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)"
+  },
+  "84094774-10ed-442c-92df-043d4acae220": {
+    "asset": 1557985554000,
+    "meta": 1558194925367,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13).zip"
+  },
+  "d3e8c267-a601-4be5-95f8-75f13f5c1d1e": {
+    "asset": 1557985554000,
+    "meta": 1558194925390,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\弹出框.png"
+  },
+  "995b1834-76be-4937-a6f0-d541f350ca6d": {
+    "asset": 1557985554000,
+    "meta": 1558194925408,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\投票结果.png"
+  },
+  "a2f16299-2594-443d-a0ce-989379c4c53f": {
+    "asset": 1557985554000,
+    "meta": 1558194925415,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\本轮投票 没有玩家被投出.png"
+  },
+  "4d3ddf36-fbd5-43ee-bef4-fa25f96b865f": {
+    "asset": 1557985554000,
+    "meta": 1558194925438,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\钉子1.png"
+  },
+  "23b5a226-1309-410b-8799-b6ef6eee9be1": {
+    "asset": 1557985554000,
+    "meta": 1558194925431,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\钉子2.png"
+  },
+  "4f0fbb90-31fe-468c-95b8-8968abb269a7": {
+    "asset": 1557985554000,
+    "meta": 1558194925455,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\钉子3.png"
+  },
+  "251ae0e0-ea0e-4b82-a7d4-6d0034a0bd20": {
+    "asset": 1557985554000,
+    "meta": 1558194925473,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\钉子5.png"
+  },
+  "8e65ba84-4b8e-4ddd-bc00-23f128a52bcc": {
+    "asset": 1557985554000,
+    "meta": 1558194925460,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\钉子4.png"
+  },
+  "d3ea0fd0-b988-4503-ada7-186943a087aa": {
+    "asset": 1559286455970,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\4_1破坏者获胜"
+  },
+  "7cbda0e1-9af9-409e-8ff4-bc147ab3d4bf": {
+    "asset": 1557985554000,
+    "meta": 1558194925509,
+    "relativePath": "res\\game\\3_2无玩家被踢\\建筑保卫战_slices (13)\\黑色蒙版.png"
+  },
+  "eb9094b7-460c-409e-892f-c629b9100938": {
+    "asset": 1558193995340,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)"
+  },
+  "293d67c9-8bf7-49e1-9385-db0008c2078d": {
+    "asset": 1557985554000,
+    "meta": 1558194925524,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14).zip"
+  },
+  "fbabf90c-5c1d-4c38-b71c-a409d86b429f": {
+    "asset": 1557985554000,
+    "meta": 1558194925539,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\保卫者.png"
+  },
+  "dd718a9c-172d-49bc-89f2-df60e6231164": {
+    "asset": 1557985554000,
+    "meta": 1558194925557,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\保卫者形象小.png"
+  },
+  "7e10924f-14bf-4311-8f30-8313f3fe67fd": {
+    "asset": 1557985554000,
+    "meta": 1558194925581,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\头像白框.png"
+  },
+  "7eafcd55-503d-42c3-82ae-edf8b5bd59f2": {
+    "asset": 1557985554000,
+    "meta": 1558194925565,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\失败白色背景 .png"
+  },
+  "23c50d63-7aaf-46ac-a686-e3e44a9b3a19": {
+    "asset": 1557985554000,
+    "meta": 1558194925604,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\头像白框小.png"
+  },
+  "be08a7bc-ff30-47a5-b75a-317c3ae56af4": {
+    "asset": 1557985554000,
+    "meta": 1558194925587,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\头像白框(1).png"
+  },
+  "34ced8b5-5397-403c-aac0-e8e1ac1f5242": {
+    "asset": 1557985554000,
+    "meta": 1558194925626,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\头像白框小(2).png"
+  },
+  "879bbd50-2f72-4bb2-99ea-fe828d5ac003": {
+    "asset": 1557985554000,
+    "meta": 1558194925609,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\头像白框小(1).png"
+  },
+  "cb19964e-c00e-4883-9619-023cbcee09d4": {
+    "asset": 1557985554000,
+    "meta": 1558194925651,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\按钮点击状态.png"
+  },
+  "955312f6-a71c-4312-9451-903ecaf11e48": {
+    "asset": 1557985554000,
+    "meta": 1558194925631,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\按钮 .png"
+  },
+  "6c0561f3-b81f-44d3-8f48-30a7645352a9": {
+    "asset": 1557985554000,
+    "meta": 1558194925645,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\破坏者.png"
+  },
+  "76162921-c211-4a1d-a6ad-4fb01f8a76f1": {
+    "asset": 1557985554000,
+    "meta": 1558194925667,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\破坏者形象.png"
+  },
+  "5d54f784-922a-458b-b86b-5c16b7f2e76c": {
+    "asset": 1557985554000,
+    "meta": 1558194925701,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\胜利白色背景.png"
+  },
+  "fda2e4f7-f831-401d-94e4-201e039c7858": {
+    "asset": 1557985554000,
+    "meta": 1558194925674,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\胜！.png"
+  },
+  "0d9fa322-fd50-4138-bbd7-9a55736d2892": {
+    "asset": 1557985554000,
+    "meta": 1558194925694,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\败.png"
+  },
+  "c49953d3-63c4-4675-be9e-b579d4dbc956": {
+    "asset": 1559286459738,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\4_2保卫者获胜"
+  },
+  "b0e0afa8-361b-4fb0-b1ba-3505da8bb1ca": {
+    "asset": 1557985554000,
+    "meta": 1558194925754,
+    "relativePath": "res\\game\\4_1破坏者获胜\\建筑保卫战_slices (14)\\黑色蒙版.png"
+  },
+  "221aabd7-2e04-4941-bbe2-cbc863b7a5c5": {
+    "asset": 1558193995457,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)"
+  },
+  "7f0ca741-574b-4bcf-a93e-e16d90dacad2": {
+    "asset": 1557985554000,
+    "meta": 1558194925771,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15).zip"
+  },
+  "beece958-f79f-4c1a-bec2-d0955eefdce0": {
+    "asset": 1557985554000,
+    "meta": 1558194925787,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\失败.png"
+  },
+  "285833ba-54c5-462f-b208-42b09d89e15d": {
+    "asset": 1557985554000,
+    "meta": 1558194925794,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\失败白色背景.png"
+  },
+  "361c9524-9c29-45dd-bfba-0921491d7e06": {
+    "asset": 1557985554000,
+    "meta": 1558194925810,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\头像白框.png"
+  },
+  "e43fc087-7645-4a43-ad05-6821cbe589a0": {
+    "asset": 1557985554000,
+    "meta": 1558194925837,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\头像白框(2).png"
+  },
+  "4d7a0b0e-1ef1-4bba-b8df-4fded27c91a9": {
+    "asset": 1557985554000,
+    "meta": 1558194925816,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\头像白框(1).png"
+  },
+  "5d59a40e-90f8-40a0-8438-fc258f9101a0": {
+    "asset": 1557985554000,
+    "meta": 1558194925852,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\头像白框小(1).png"
+  },
+  "b7c76bad-357f-4e3a-ba01-f19a5a6d20d2": {
+    "asset": 1557985554000,
+    "meta": 1558194925831,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\头像白框小.png"
+  },
+  "2cfc6560-2cf0-4fac-97af-e5b73e19d91f": {
+    "asset": 1557985554000,
+    "meta": 1558194925876,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\按钮点击状态.png"
+  },
+  "b4f48b27-868a-43c2-97b1-c478e5759b1e": {
+    "asset": 1557985554000,
+    "meta": 1558194925857,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\按钮.png"
+  },
+  "fe579f98-675c-4889-90d3-bea25294a058": {
+    "asset": 1557985554000,
+    "meta": 1558194925882,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\破坏者形象小.png"
+  },
+  "31e2fdea-ddf4-456b-ba2b-e0eef263c97d": {
+    "asset": 1557985554000,
+    "meta": 1558194925903,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\胜！.png"
+  },
+  "80c98c35-32e7-427b-acea-f87407e4c627": {
+    "asset": 1557985554000,
+    "meta": 1558194925957,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\黑色蒙版.png"
+  },
+  "17923b03-bccc-4bf5-9581-1482d8e570ad": {
+    "asset": 1557985554000,
+    "meta": 1558194925910,
+    "relativePath": "res\\game\\4_2保卫者获胜\\建筑保卫战_slices (15)\\胜利白色背景.png"
+  },
+  "2e63ef6d-7d6c-4e8e-8ee2-7292e5d08be0": {
+    "asset": 1559286429913,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫"
+  },
+  "a6b6eb9e-b1d4-47ee-bbcf-d32a788eec94": {
+    "asset": 1559286752847,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)"
+  },
+  "c77db69e-94a4-461b-9f41-7e52af926607": {
+    "asset": 1557985554000,
+    "meta": 1558194924613,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7).zip"
+  },
+  "018998e6-1b4c-438d-8174-94acbd249cb1": {
+    "asset": 1557985554000,
+    "meta": 1558194924633,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\60%.png"
+  },
+  "63abe6b5-0de7-4109-abd7-52875520008e": {
+    "asset": 1557985554000,
+    "meta": 1558194924639,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\头像框白色描边.png"
+  },
+  "6717e3a8-137d-461a-9858-e6c444d84d9e": {
+    "asset": 1557985554000,
+    "meta": 1558194924661,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\头像框白色描边大.png"
+  },
+  "8a141189-73bb-42e3-9ffc-541e0ea8a2db": {
+    "asset": 1557985554000,
+    "meta": 1558194924655,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\头像框白色描边小.png"
+  },
+  "c013d1a3-fd55-438d-b86a-f9eaf9bb33e6": {
+    "asset": 1557985554000,
+    "meta": 1558194924676,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\完成度.png"
+  },
+  "cc5bedae-3a87-4054-8282-b185cc438524": {
+    "asset": 1557985554000,
+    "meta": 1558194924684,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\永乐宫(25).png"
+  },
+  "ef8b2110-3182-4b93-b3c2-6e3d35c89b3e": {
+    "asset": 1557985554000,
+    "meta": 1558194924697,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\眼睛闭.png"
+  },
+  "cd1646ea-5aa4-4908-a497-37eb6a0d9045": {
+    "asset": 1557985554000,
+    "meta": 1559286826684,
+    "relativePath": "resources\\texture\\g2.png"
+  },
+  "2cbe4fa1-4731-4ee7-b988-6da788d5081a": {
+    "asset": 1557985554000,
+    "meta": 1558194924726,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\祥云 拷贝 3.png"
+  },
+  "2467eaea-f4a1-4ce1-9caa-37df2e7701d8": {
+    "asset": 1557985554000,
+    "meta": 1558194924722,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\祥云 拷贝 2.png"
+  },
+  "ecacd8da-58cf-44fc-952b-13696df25a69": {
+    "asset": 1557985554000,
+    "meta": 1558194924752,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\进度条.png"
+  },
+  "2487d5d3-9cdb-49aa-bd92-11fdabc7e2c4": {
+    "asset": 1557985554000,
+    "meta": 1558194924745,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\祥云 拷贝.png"
+  },
+  "40d3f05a-3f7b-4f2c-afe2-6bac20555092": {
+    "asset": 1557985554000,
+    "meta": 1558194924778,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\进度框.png"
+  },
+  "3e4f3717-d420-4c1a-bc3f-47af181affdc": {
+    "asset": 1557985554000,
+    "meta": 1558194924774,
+    "relativePath": "res\\game\\2_1游戏场景1永乐宫\\建筑保卫战_slices (7)\\预览框2.png"
+  },
+  "275f5be4-d9c6-4069-bd23-c511b85d9a87": {
+    "asset": 1559286438766,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼"
+  },
+  "613e399d-aaad-4801-a989-2f67eec922d8": {
+    "asset": 1559286839461,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼\\建筑保卫战_slices (9)"
+  },
+  "28738135-9a44-41bf-b90b-5634497fe733": {
+    "asset": 1557985554000,
+    "meta": 1558194924904,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼\\建筑保卫战_slices (9).zip"
+  },
+  "4912e90d-6ff6-48c3-86dd-10894404ab91": {
+    "asset": 1557985554000,
+    "meta": 1559286848179,
+    "relativePath": "resources\\texture\\g1.png"
+  },
+  "f7850301-84a3-48b0-9014-ba86dc9d052d": {
+    "asset": 1557985554000,
+    "meta": 1558194924957,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼\\建筑保卫战_slices (9)\\太阳.png"
+  },
+  "4cdc09d8-d7ed-40c3-885e-de317e636926": {
+    "asset": 1557985554000,
+    "meta": 1558194924963,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼\\建筑保卫战_slices (9)\\祥云 .png"
+  },
+  "92d70bea-0dd3-4159-bc2b-c43ebb5b8e22": {
+    "asset": 1557985554000,
+    "meta": 1558194924984,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼\\建筑保卫战_slices (9)\\祥云 (1).png"
+  },
+  "d0c5fc67-6ad1-4fe2-8c37-773734488053": {
+    "asset": 1559286433823,
+    "meta": 1557928184000,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔"
+  },
+  "c081dd89-e5c7-458a-9347-a89f38a8c4fe": {
+    "asset": 1557985554000,
+    "meta": 1558194925005,
+    "relativePath": "res\\game\\2_3游戏场景3黄鹤楼\\建筑保卫战_slices (9)\\黄鹤楼(25).png"
+  },
+  "9fa46498-2083-45ab-ba9d-64f14b87578e": {
+    "asset": 1559286771061,
+    "meta": 1557985554000,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔\\建筑保卫战_slices (8)"
+  },
+  "cc433084-a87a-4919-be00-0330356f39c0": {
+    "asset": 1557985554000,
+    "meta": 1558194924790,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔\\建筑保卫战_slices (8).zip"
+  },
+  "ec44570e-06f5-4f6a-b569-f52273d2c7cc": {
+    "asset": 1557985554000,
+    "meta": 1559286831772,
+    "relativePath": "resources\\texture\\g3.png"
+  },
+  "d8d14980-eba2-4fdd-96cf-7b13fc9f0bb2": {
+    "asset": 1557985554000,
+    "meta": 1558194924843,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔\\建筑保卫战_slices (8)\\嵩岳寺塔(22).png"
+  },
+  "8edc1bff-7d45-435c-a440-099e7a8b4e0f": {
+    "asset": 1557985554000,
+    "meta": 1558194924866,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔\\建筑保卫战_slices (8)\\祥云 拷贝 4.png"
+  },
+  "1ea5b14f-5d16-4c0d-986d-01ad5c3cd93d": {
+    "asset": 1557985554000,
+    "meta": 1558194924887,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔\\建筑保卫战_slices (8)\\祥云 拷贝 6.png"
+  },
+  "3533a0cd-4819-4010-a47e-5e72889154f9": {
+    "asset": 1557985554000,
+    "meta": 1558194924873,
+    "relativePath": "res\\game\\2_2游戏场景2嵩岳寺塔\\建筑保卫战_slices (8)\\祥云 拷贝 5.png"
+  },
+  "87d6485f-80e9-4c06-b0be-19b7e493c8bd": {
+    "asset": 1559143128883,
+    "meta": 1558012210000,
+    "relativePath": "Audio"
+  },
+  "cca6db34-293f-4dcb-ac29-c0d1d62e0503": {
+    "asset": 1559110764520,
+    "meta": 1559110764541,
+    "relativePath": "animations\\12345.anim"
+  },
+  "9b70ac61-2aac-4810-898f-e9cdb545f452": {
+    "asset": 1559286297544,
+    "meta": 1558024618000,
+    "relativePath": "scripts"
+  },
+  "1ec3a476-2f6c-4b48-8e59-64c0168dec9e": {
+    "asset": 1552899652000,
+    "meta": 1558194928495,
+    "relativePath": "scripts\\game\\gameManage.js"
+  },
+  "120ea6b6-36dd-42ea-942d-450b2af57a78": {
+    "asset": 1553869404000,
+    "meta": 1558194928602,
+    "relativePath": "scripts\\game\\smooke.js"
+  },
+  "e35a0134-677e-419e-8fb7-db2a547f5d23": {
+    "asset": 1558025064000,
+    "meta": 1558194928317,
+    "relativePath": "scripts\\game\\btn_musicPlayer.js"
+  },
+  "cb691c81-6376-4a4d-942a-8b9351d747bb": {
+    "asset": 1558025188000,
+    "meta": 1558194928613,
+    "relativePath": "scripts\\game\\zIndex=1.js"
+  },
+  "19f96126-7d5f-4493-b36d-08234d74778f": {
+    "asset": 1558026056000,
+    "meta": 1558194928409,
+    "relativePath": "scripts\\game\\btn_ruleClose.js"
+  },
+  "2f354891-3b77-4c23-b04e-e14e7b73adca": {
+    "asset": 1558061932000,
+    "meta": 1558194924116,
+    "relativePath": "prefabs\\btn_help.prefab"
+  },
+  "9caf5695-c527-436f-ab0b-403c672eb77c": {
+    "asset": 1558061934000,
+    "meta": 1558194924140,
+    "relativePath": "prefabs\\btn_music.prefab"
+  },
+  "a492b769-0686-4db8-a97c-52e0aa34958d": {
+    "asset": 1558062174000,
+    "meta": 1558194924184,
+    "relativePath": "prefabs\\ruleArea.prefab"
+  },
+  "c4831f78-5d04-449f-ae29-22f796c3b5a0": {
+    "asset": 1558062210000,
+    "meta": 1558194924153,
+    "relativePath": "prefabs\\mask.prefab"
+  },
+  "cce4c1ff-b1a7-462f-be8c-b750f77e0ab5": {
+    "asset": 1558078232000,
+    "meta": 1558194928234,
+    "relativePath": "scripts\\game\\btn_destroyer.js"
+  },
+  "24741681-a996-4789-b982-4d9a1aeffcc7": {
+    "asset": 1558078226000,
+    "meta": 1558194928288,
+    "relativePath": "scripts\\game\\btn_left.js"
+  },
+  "f33515c8-f0cd-4256-8be7-e7758fce1a39": {
+    "asset": 1558078220000,
+    "meta": 1558194928356,
+    "relativePath": "scripts\\game\\btn_protector.js"
+  },
+  "ce2319d0-13a8-450e-922d-172bcf0f5575": {
+    "asset": 1558078226000,
+    "meta": 1558194928393,
+    "relativePath": "scripts\\game\\btn_right.js"
+  },
+  "6c8c68a5-d240-4e05-9c39-820b24566210": {
+    "asset": 1558154496000,
+    "meta": 1558194928343,
+    "relativePath": "scripts\\game\\btn_prepared.js"
+  },
+  "050f50b4-ad4f-4a4a-aa3b-0812cfb3440b": {
+    "asset": 1559211557975,
+    "meta": 1558161040000,
+    "relativePath": "resources"
+  },
+  "ee6c54fd-289b-45a4-b8d7-e726cc95ee68": {
+    "asset": 1558161084000,
+    "meta": 1558194927483,
+    "relativePath": "resources\\texture\\background1.png"
+  },
+  "8ea5efb5-70fc-41a1-b568-20d2ea67aa81": {
+    "asset": 1558161084000,
+    "meta": 1558194927533,
+    "relativePath": "resources\\texture\\background2.png"
+  },
+  "e77f7a03-0da2-4522-9b46-e0c0d5aff061": {
+    "asset": 1558161084000,
+    "meta": 1558194927541,
+    "relativePath": "resources\\texture\\background3.png"
+  },
+  "c8f42caa-09b7-4ce9-ac3d-38ef766b2cb8": {
+    "asset": 1559288108933,
+    "meta": 1559288108960,
+    "relativePath": "scenes\\start_scene.fire"
+  },
+  "f0aeaacc-e93a-4bcc-9976-3581ba4941a3": {
+    "asset": 1558163132000,
+    "meta": 1558194924028,
+    "relativePath": "animations\\backGroundFade.anim"
+  },
+  "73e58299-77db-47b2-b9f5-3a1ed41a8fcc": {
+    "asset": 1558176466000,
+    "meta": 1558194924043,
+    "relativePath": "animations\\playerSideSpawn.anim"
+  },
+  "b9840267-d193-4570-9b37-542e0b968c56": {
+    "asset": 1558179540000,
+    "meta": 1558194928014,
+    "relativePath": "scripts\\game\\anim_12345.js"
+  },
+  "8456fe72-42ba-4880-855e-4f8bc8a1dd15": {
+    "asset": 1558187506000,
+    "meta": 1558194928265,
+    "relativePath": "scripts\\game\\btn_help.js"
+  },
+  "6b98b938-7221-4e10-a7b4-5bb60f2da2f0": {
+    "asset": 1558717430221,
+    "meta": 1558717432035,
+    "relativePath": "scripts\\game\\btn_startGame.js"
+  },
+  "89f4a505-b076-44da-98e4-7b78b259ab90": {
+    "asset": 1559286297544,
+    "meta": 1558767915843,
+    "relativePath": "scripts\\game"
+  },
+  "f3a42e4c-6109-4464-892e-a69fe064f4f7": {
+    "asset": 1559061417366,
+    "meta": 1558859851244,
+    "relativePath": "scripts\\lib"
+  },
+  "bea99ccd-eac4-44d5-9ad4-c8d7cf01bda6": {
+    "asset": 1558767915622,
+    "meta": 1558858729754,
+    "relativePath": "scripts\\lib\\matchvs"
+  },
+  "e88f6d03-ba7b-4f1e-8b46-4d167e374b4c": {
+    "asset": 1558767915623,
+    "meta": 1558767922348,
+    "relativePath": "scripts\\lib\\state-machine.min.js"
+  },
+  "e27eccdc-0ebd-48cc-9182-f0b2840cdae4": {
+    "asset": 1558767915621,
+    "meta": 1558767915861,
+    "relativePath": "scripts\\common"
+  },
+  "2417495b-c6d7-4634-ab2d-9028a203ed65": {
+    "asset": 1558767915703,
+    "meta": 1558767922541,
+    "relativePath": "scripts\\lib\\matchvs\\matchvs.all.js"
+  },
+  "81cdfd45-5c03-41e9-8bad-c2aceede0843": {
+    "asset": 1558767915648,
+    "meta": 1558767915623,
+    "relativePath": "scripts\\common\\lobby"
+  },
+  "7c5b03cc-e46c-4be3-9e30-b50dae244750": {
+    "asset": 1558767915666,
+    "meta": 1558767922584,
+    "relativePath": "scripts\\common\\lobby\\playerIcon.js"
+  },
+  "6993e5d1-8444-477c-8198-5d6b2511fc12": {
+    "asset": 1558767915667,
+    "meta": 1558767922598,
+    "relativePath": "scripts\\common\\lobby\\rankUserInfo.js"
+  },
+  "3870698f-4030-4272-af2a-8ccbaa407563": {
+    "asset": 1558767915667,
+    "meta": 1558767922606,
+    "relativePath": "scripts\\common\\lobby\\resultPlayerIcon.js"
+  },
+  "c337d20c-77fb-4f3e-a214-41e7124962da": {
+    "asset": 1558767915667,
+    "meta": 1558767922629,
+    "relativePath": "scripts\\common\\lobby\\roomInfo.js"
+  },
+  "f214e373-8d4c-4af5-b1a7-5c134b275312": {
+    "asset": 1559286048978,
+    "meta": 1558767915623,
+    "relativePath": "scripts\\common\\script"
+  },
+  "e22bd228-ae98-49db-a392-04eb2ff56c2c": {
+    "asset": 1558767915701,
+    "meta": 1558767915667,
+    "relativePath": "scripts\\common\\script\\basic"
+  },
+  "aeb5e199-c0cc-4e22-8f5e-104791645a2f": {
+    "asset": 1558767915704,
+    "meta": 1558767922819,
+    "relativePath": "scripts\\common\\script\\basic\\DataFunc.js"
+  },
+  "11173fe5-ff42-4c52-be57-13189a0149fc": {
+    "asset": 1558767915704,
+    "meta": 1558767922859,
+    "relativePath": "scripts\\common\\script\\basic\\Matchvs.js"
+  },
+  "c15f930c-520f-497b-9b92-e8dc9f6f0c74": {
+    "asset": 1558767915737,
+    "meta": 1558767915704,
+    "relativePath": "scripts\\common\\script\\basic\\messenger"
+  },
+  "a5d4dd11-a4fd-4cc2-9bb6-39971bdb58c1": {
+    "asset": 1558767915705,
+    "meta": 1558767922885,
+    "relativePath": "scripts\\common\\script\\basic\\MatchvsEngine.js"
+  },
+  "359baa39-7619-45e3-8438-e24fbfa8d448": {
+    "asset": 1558767915757,
+    "meta": 1558767922918,
+    "relativePath": "scripts\\common\\script\\basic\\messenger\\eventListener.js"
+  },
+  "37b6c3ec-84d7-4bb5-801f-9121acc36641": {
+    "asset": 1558767915747,
+    "meta": 1558767915704,
+    "relativePath": "scripts\\common\\script\\basic\\rankNetwork"
+  },
+  "57b2c21f-224e-472d-89b2-d5e3bf4a9e18": {
+    "asset": 1558767915757,
+    "meta": 1558767923135,
+    "relativePath": "scripts\\common\\script\\basic\\rankNetwork\\msgType.js"
+  },
+  "4732185e-6734-4dad-835a-121c6a8cef3f": {
+    "asset": 1558767915757,
+    "meta": 1558767923364,
+    "relativePath": "scripts\\common\\script\\basic\\rankNetwork\\network.js"
+  },
+  "fcbc4271-2cfb-4adb-94df-53735aa08f84": {
+    "asset": 1558767915789,
+    "meta": 1558767923384,
+    "relativePath": "scripts\\common\\script\\basic\\rankNetwork\\pomeloBuild.js"
+  },
+  "e27eafd2-4039-4a11-808b-9005fd1a4260": {
+    "asset": 1558767915706,
+    "meta": 1558767923407,
+    "relativePath": "scripts\\common\\script\\basic\\UIFunc.js"
+  },
+  "30528c29-d76a-4009-a998-b746d0fc151a": {
+    "asset": 1558767915730,
+    "meta": 1558767923429,
+    "relativePath": "scripts\\common\\script\\basic\\uiPanel.js"
+  },
+  "e15a049e-9654-4be9-870b-7ee6c2612ac0": {
+    "asset": 1558767915667,
+    "meta": 1558767923453,
+    "relativePath": "scripts\\common\\script\\uiCreateRoom.js"
+  },
+  "fc30efae-70ef-4320-b707-18d2caf07457": {
+    "asset": 1558767915803,
+    "meta": 1558767923466,
+    "relativePath": "scripts\\common\\script\\basic\\rankNetwork\\ProtoBuf.js"
+  },
+  "a7381cf3-b240-49e1-b0c9-43d02b04cc86": {
+    "asset": 1558767915667,
+    "meta": 1558767923485,
+    "relativePath": "scripts\\common\\script\\uiExit.js"
+  },
+  "a5e20086-6ca8-40c7-9197-826b20c4f9bf": {
+    "asset": 1558767915667,
+    "meta": 1558767923510,
+    "relativePath": "scripts\\common\\script\\uiLobbyPanel.js"
+  },
+  "d62b824f-2914-4609-95d5-cedaa6681330": {
+    "asset": 1558778445906,
+    "meta": 1558768240937,
+    "relativePath": "resources\\ui"
+  },
+  "03ed8259-3c91-4ad4-8ead-879ffadfb7e7": {
+    "asset": 1558776672180,
+    "meta": 1558776680468,
+    "relativePath": "scripts\\common\\lobby\\roomUserInfo.js"
+  },
+  "f8864278-fc8b-4904-8576-4dc9bca7284b": {
+    "asset": 1559286355000,
+    "meta": 1558777498718,
+    "relativePath": "res\\其他"
+  },
+  "169f26c0-63ff-4f58-93f9-5ee4342b2717": {
+    "asset": 1558777507991,
+    "meta": 1558777508035,
+    "relativePath": "res\\其他\\提示@3x.png"
+  },
+  "5ba740da-e8f3-46c4-a278-57af4d4872fb": {
+    "asset": 1558777507991,
+    "meta": 1558777508056,
+    "relativePath": "res\\其他\\弹出框@3x.png"
+  },
+  "6bf6337b-8dbc-436b-b154-f32016e472f7": {
+    "asset": 1558778379519,
+    "meta": 1558778379540,
+    "relativePath": "animations\\tip.anim"
+  },
+  "7960f842-aa09-4da9-a5b9-25627cfd3762": {
+    "asset": 1558778418291,
+    "meta": 1558778422535,
+    "relativePath": "scripts\\common\\script\\uiTip.js"
+  },
+  "5c46bf59-722d-4b8b-8a5d-ef5518e37642": {
+    "asset": 1559183474059,
+    "meta": 1559183474086,
+    "relativePath": "resources\\ui\\uiTip.prefab"
+  },
+  "0ed6bdf2-612c-4f2d-b813-0e8fe55bd6b0": {
+    "asset": 1559059862076,
+    "meta": 1559061406390,
+    "relativePath": "scripts\\game\\pageView.js"
+  },
+  "d86c5866-6055-412c-ab45-62097a1a0331": {
+    "asset": 1559061417339,
+    "meta": 1559061473820,
+    "relativePath": "scripts\\lib\\tweenjs.min.js"
+  },
+  "771d9b66-0df6-41f5-bfc4-b6e2970ed35a": {
+    "asset": 1559064859370,
+    "meta": 1559067029607,
+    "relativePath": "scripts\\common\\script\\basic\\messenger\\clientEvent.js"
+  },
+  "b8ce63c5-5cfa-41d6-8311-b4cade230805": {
+    "asset": 1559111872565,
+    "meta": 1559111872733,
+    "relativePath": "resources\\texture\\line2.png"
+  },
+  "d96eacd3-2cb0-45e7-a03a-bdbc4f7d8b1d": {
+    "asset": 1559111872564,
+    "meta": 1559111872740,
+    "relativePath": "resources\\texture\\line3.png"
+  },
+  "f924a5e2-03ff-446e-bf33-37eb3b8fc0d3": {
+    "asset": 1559111872565,
+    "meta": 1559111872766,
+    "relativePath": "resources\\texture\\line1.png"
+  },
+  "081bc41d-59e0-4362-980f-20306b434c13": {
+    "asset": 1559286848157,
+    "meta": 1559131792809,
+    "relativePath": "resources\\texture"
+  },
+  "679287d4-a33d-4b3a-badd-da40cbfd55e5": {
+    "asset": 1559132490370,
+    "meta": 1559132490700,
+    "relativePath": "resources\\texture\\share.png"
+  },
+  "7498ff1e-a5b6-4a0c-9bcd-3f2e3323216b": {
+    "asset": 1559145647823,
+    "meta": 1559145649836,
+    "relativePath": "scripts\\common\\lobby\\gameUserInfo.js"
+  },
+  "a2ac1ced-fb82-4c5a-a37c-d68dee609168": {
+    "asset": 1559149003422,
+    "meta": 1559149007033,
+    "relativePath": "scripts\\game\\playerSide.js"
+  },
+  "a28256f6-c732-43bc-820d-b266e0e87e95": {
+    "asset": 1559190771125,
+    "meta": 1559190771139,
+    "relativePath": "prefabs\\4nail4.prefab"
+  },
+  "add8467c-31d1-41f0-81a9-9f38d430fc33": {
+    "asset": 1559190793651,
+    "meta": 1559190793658,
+    "relativePath": "animations\\nail.anim"
+  },
+  "84aa257b-57ae-4d9c-81de-579807efa91a": {
+    "asset": 1559197306158,
+    "meta": 1559197307094,
+    "relativePath": "scripts\\game\\nailPlay.js"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1549769518000,
+    "meta": 1559218872752,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1549769518000,
+    "meta": 1559218872755,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1549769518000,
+    "meta": 1559218872769,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1549769518000,
+    "meta": 1559218872775,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1549769518000,
+    "meta": 1559218872797,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1549769518000,
+    "meta": 1559218872789,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1549769518000,
+    "meta": 1559218872817,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1549769518000,
+    "meta": 1559218872819,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1549769518000,
+    "meta": 1559218872835,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1549769518000,
+    "meta": 1559218872829,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1549769518000,
+    "meta": 1559218872849,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1549769518000,
+    "meta": 1559218872847,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1549769518000,
+    "meta": 1559218872865,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1549769518000,
+    "meta": 1559218872859,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1549769518000,
+    "meta": 1559218872879,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1549769518000,
+    "meta": 1559218872899,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1549769518000,
+    "meta": 1559218872879,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1549769518000,
+    "meta": 1559218872889,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1549769518000,
+    "meta": 1559218872914,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1549769518000,
+    "meta": 1559218872909,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1549769518000,
+    "meta": 1559218872939,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1549769518000,
+    "meta": 1559218873079,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1549769518000,
+    "meta": 1559218872949,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1549769518000,
+    "meta": 1559218873069,
+    "relativePath": "particle\\atom.plist"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1549769518000,
+    "meta": 1559218872949,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1549769518000,
+    "meta": 1559218872949,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1549769518000,
+    "meta": 1559218872929,
+    "relativePath": "particle\\atom.png"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1549769518000,
+    "meta": 1559218872949,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1549769518000,
+    "meta": 1559218872959,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1549769518000,
+    "meta": 1559218872959,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1549769518000,
+    "meta": 1559218872969,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1549769518000,
+    "meta": 1559218872969,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1549769518000,
+    "meta": 1559218872979,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1549769518000,
+    "meta": 1559218872979,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1549769518000,
+    "meta": 1559218872989,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1549769518000,
+    "meta": 1559218872989,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1549769518000,
+    "meta": 1559218872999,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1549769518000,
+    "meta": 1559218872999,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1549769518000,
+    "meta": 1559218873009,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1549769518000,
+    "meta": 1559218873009,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1549769518000,
+    "meta": 1559218873019,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1549769518000,
+    "meta": 1559218873019,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1549769518000,
+    "meta": 1559218873029,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1549769518000,
+    "meta": 1559218873029,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "04262b19-0503-4a80-856a-b6026a0b971b": {
+    "asset": 1559209636796,
+    "meta": 1559209636776,
+    "relativePath": "res\\积木"
+  },
+  "05023ee2-033c-486b-84fb-791e88f38cef": {
+    "asset": 1559209636771,
+    "meta": 1559209637012,
+    "relativePath": "res\\积木\\积木_0000s_0000_5.png"
+  },
+  "584f340e-5e97-428e-be5d-0cfadb317126": {
+    "asset": 1559209636772,
+    "meta": 1559209637019,
+    "relativePath": "res\\积木\\积木_0000s_0001_4.png"
+  },
+  "f382ece6-b6eb-40bf-aaa1-03b7cf093710": {
+    "asset": 1559209636772,
+    "meta": 1559209637053,
+    "relativePath": "res\\积木\\积木_0000s_0002_3.png"
+  },
+  "e0298910-b923-4c35-a23c-969970fa6b3c": {
+    "asset": 1559209636771,
+    "meta": 1559209637062,
+    "relativePath": "res\\积木\\积木_0000s_0003_2.png"
+  },
+  "3c6018d0-7996-42f4-b291-d763cf0dfe39": {
+    "asset": 1559209636771,
+    "meta": 1559209637091,
+    "relativePath": "res\\积木\\积木_0000s_0004_1.png"
+  },
+  "5717b866-0a87-45ec-be5c-93173f51bd16": {
+    "asset": 1559218002541,
+    "meta": 1559218058211,
+    "relativePath": "scripts\\game\\blockMaker.js"
+  },
+  "a6c4c591-a443-4bcf-bcb7-6c241e2025b2": {
+    "asset": 1559221376913,
+    "meta": 1559221926209,
+    "relativePath": "scripts\\game\\StateSystem.js"
+  },
+  "4a25d80a-16b9-48e7-8d31-5e9841c9a8b1": {
+    "asset": 1559222532097,
+    "meta": 1559222542939,
+    "relativePath": "scripts\\game\\assistBar.js"
+  },
+  "632591cc-d174-4814-9e11-8619347fad95": {
+    "asset": 1559222895857,
+    "meta": 1559222876684,
+    "relativePath": "res\\积木组"
+  },
+  "65adf190-bd6f-4c0b-96e8-3c95372a4ba3": {
+    "asset": 1559222876666,
+    "meta": 1559222888179,
+    "relativePath": "res\\积木组\\积木_0001s_0001_002.png"
+  },
+  "02ab996c-d8e6-4113-af0d-8265520fe881": {
+    "asset": 1559222876665,
+    "meta": 1559222888183,
+    "relativePath": "res\\积木组\\积木_0001s_0000_001.png"
+  },
+  "9344acf0-cf8a-4a13-a634-4abd6037cb51": {
+    "asset": 1559222876665,
+    "meta": 1559222888210,
+    "relativePath": "res\\积木组\\积木_0001s_0002_003.png"
+  },
+  "81db4381-2d7c-448e-924e-74498673444b": {
+    "asset": 1559222876666,
+    "meta": 1559222888213,
+    "relativePath": "res\\积木组\\积木_0001s_0003_005.png"
+  },
+  "b05d5aeb-b24c-4406-a8b5-59c523b96890": {
+    "asset": 1559222876666,
+    "meta": 1559222888236,
+    "relativePath": "res\\积木组\\积木_0001s_0005_008.png"
+  },
+  "8ef85771-f4ef-48a6-bb82-b2ed4f5af088": {
+    "asset": 1559222876666,
+    "meta": 1559222888239,
+    "relativePath": "res\\积木组\\积木_0001s_0004_006.png"
+  },
+  "f5b8ac01-e602-42b0-b3bd-990cd9cc0834": {
+    "asset": 1559222876666,
+    "meta": 1559222888266,
+    "relativePath": "res\\积木组\\积木_0001s_0006_004.png"
+  },
+  "a0749258-11e4-480d-bb0e-675f21e8dec3": {
+    "asset": 1559222876666,
+    "meta": 1559222888269,
+    "relativePath": "res\\积木组\\积木_0001s_0007_007.png"
+  },
+  "b9b6d14b-35ad-4f20-b503-898586995977": {
+    "asset": 1559222876666,
+    "meta": 1559222888295,
+    "relativePath": "res\\积木组\\积木_0001s_0009_0010.png"
+  },
+  "8661eb21-0bf8-49c6-b0ff-f1cf4ea60ab6": {
+    "asset": 1559222876666,
+    "meta": 1559222888299,
+    "relativePath": "res\\积木组\\积木_0001s_0008_009.png"
+  },
+  "a14b1c7e-2a60-42f5-9f15-37dfc942474d": {
+    "asset": 1559222876666,
+    "meta": 1559222888324,
+    "relativePath": "res\\积木组\\积木_0001s_0010_0011.png"
+  },
+  "27eea6fe-9ab9-4789-a74a-ff586e085d5e": {
+    "asset": 1559222876666,
+    "meta": 1559222888327,
+    "relativePath": "res\\积木组\\积木_0001s_0011_0012.png"
+  },
+  "31a07607-0deb-4eb4-84c4-2bc2facd6645": {
+    "asset": 1559222876666,
+    "meta": 1559222888356,
+    "relativePath": "res\\积木组\\积木_0001s_0012_0013.png"
+  },
+  "fd5502ad-6d77-40af-a31e-968c54a3126e": {
+    "asset": 1559222876666,
+    "meta": 1559222888359,
+    "relativePath": "res\\积木组\\积木_0001s_0013_0014.png"
+  },
+  "111fe410-02f0-4a72-ae07-b378db8c9cc2": {
+    "asset": 1559222876666,
+    "meta": 1559222888388,
+    "relativePath": "res\\积木组\\积木_0001s_0015_0016.png"
+  },
+  "9daa1772-289f-4869-9656-7cbb58cf7a8d": {
+    "asset": 1559222876666,
+    "meta": 1559222888390,
+    "relativePath": "res\\积木组\\积木_0001s_0014_0015.png"
+  },
+  "5cd89665-143a-4efa-bc53-5fdf636fe1cb": {
+    "asset": 1559222876666,
+    "meta": 1559222888415,
+    "relativePath": "res\\积木组\\积木_0001s_0016_0017.png"
+  },
+  "48bef248-482b-4e7f-a4ea-b8309cbe9662": {
+    "asset": 1559222876666,
+    "meta": 1559222888418,
+    "relativePath": "res\\积木组\\积木_0001s_0017_0018.png"
+  },
+  "7c496664-c3c3-4f09-8927-dca6528df772": {
+    "asset": 1559222876666,
+    "meta": 1559222888445,
+    "relativePath": "res\\积木组\\积木_0001s_0019_0020.png"
+  },
+  "619cd9cc-c511-4241-a64e-da32baa1e09c": {
+    "asset": 1559222876666,
+    "meta": 1559222888448,
+    "relativePath": "res\\积木组\\积木_0001s_0018_0019.png"
+  },
+  "137d5ebc-30a5-4044-afda-0f4db43d3030": {
+    "asset": 1559222876666,
+    "meta": 1559222888472,
+    "relativePath": "res\\积木组\\积木_0001s_0020_0021.png"
+  },
+  "1defcf1e-e487-4520-9fef-fc2270bcbef1": {
+    "asset": 1559222876669,
+    "meta": 1559222888477,
+    "relativePath": "res\\积木组\\积木_0001s_0021_0022.png"
+  },
+  "b97027e3-4348-4977-8539-8b69d8b8197f": {
+    "asset": 1559222876673,
+    "meta": 1559222888504,
+    "relativePath": "res\\积木组\\积木_0001s_0023_0024.png"
+  },
+  "fb1a0cb5-2224-4b3b-940c-5a528a07a696": {
+    "asset": 1559222876666,
+    "meta": 1559222888507,
+    "relativePath": "res\\积木组\\积木_0001s_0022_0023.png"
+  },
+  "8474a644-3c55-4b7a-bde8-dc89ce0a7d43": {
+    "asset": 1559222876675,
+    "meta": 1559222888534,
+    "relativePath": "res\\积木组\\积木_0001s_0024_0025.png"
+  },
+  "9ab835e6-74b8-45e7-b742-a707086692a3": {
+    "asset": 1559222887859,
+    "meta": 1559222888539,
+    "relativePath": "res\\积木组\\积木_0002s_0000_01.png"
+  },
+  "116303ae-6eea-40e1-9e4b-19bbe35ed1b0": {
+    "asset": 1559222887859,
+    "meta": 1559222888571,
+    "relativePath": "res\\积木组\\积木_0002s_0002_03.png"
+  },
+  "8ffd6445-9035-4384-bd4c-d06e33606d3a": {
+    "asset": 1559222887859,
+    "meta": 1559222888578,
+    "relativePath": "res\\积木组\\积木_0002s_0001_02.png"
+  },
+  "66a91f0d-ef72-4f77-9dfd-6b3894e3a7e3": {
+    "asset": 1559222887859,
+    "meta": 1559222888611,
+    "relativePath": "res\\积木组\\积木_0002s_0004_05.png"
+  },
+  "531e7bab-982a-41b0-9b8c-3e8035069db0": {
+    "asset": 1559222887859,
+    "meta": 1559222888619,
+    "relativePath": "res\\积木组\\积木_0002s_0003_04.png"
+  },
+  "7d3adcab-ac78-42a7-8f95-9f068cc1447a": {
+    "asset": 1559222887859,
+    "meta": 1559222888649,
+    "relativePath": "res\\积木组\\积木_0002s_0005_06.png"
+  },
+  "958cb668-df99-4db1-8895-84095fd4c84d": {
+    "asset": 1559222887859,
+    "meta": 1559222888657,
+    "relativePath": "res\\积木组\\积木_0002s_0006_07.png"
+  },
+  "4bdf0d50-bbac-4170-8dbb-25b70cdfe843": {
+    "asset": 1559222887859,
+    "meta": 1559222888690,
+    "relativePath": "res\\积木组\\积木_0002s_0008_09.png"
+  },
+  "16be2e9b-cfca-4a93-92e0-679032d58ac4": {
+    "asset": 1559222887859,
+    "meta": 1559222888699,
+    "relativePath": "res\\积木组\\积木_0002s_0007_08.png"
+  },
+  "e08f1a20-338b-47e4-a044-04ed0874d1c4": {
+    "asset": 1559222887859,
+    "meta": 1559222888734,
+    "relativePath": "res\\积木组\\积木_0002s_0009_010.png"
+  },
+  "46a775bc-862f-413f-a422-42d318533731": {
+    "asset": 1559222887859,
+    "meta": 1559222888741,
+    "relativePath": "res\\积木组\\积木_0002s_0010_011.png"
+  },
+  "dddfbe21-06ec-45e2-990b-ffd6263d9e34": {
+    "asset": 1559222887859,
+    "meta": 1559222888776,
+    "relativePath": "res\\积木组\\积木_0002s_0011_012.png"
+  },
+  "9a7a4e7b-1daa-4226-b081-a18bc71de9c5": {
+    "asset": 1559222887859,
+    "meta": 1559222888783,
+    "relativePath": "res\\积木组\\积木_0002s_0012_013.png"
+  },
+  "9632f8b6-72da-4eb1-9899-86801ea1443b": {
+    "asset": 1559222887860,
+    "meta": 1559222888814,
+    "relativePath": "res\\积木组\\积木_0002s_0013_014.png"
+  },
+  "d4f38242-ba7f-4256-8735-ad8126b30b5a": {
+    "asset": 1559222887860,
+    "meta": 1559222888822,
+    "relativePath": "res\\积木组\\积木_0002s_0014_015.png"
+  },
+  "d044c11e-af9f-4456-a77b-68ef1c8c94a3": {
+    "asset": 1559222887860,
+    "meta": 1559222888854,
+    "relativePath": "res\\积木组\\积木_0002s_0015_016.png"
+  },
+  "082c7131-7dcf-441a-89ff-9f3a62912d4c": {
+    "asset": 1559222887860,
+    "meta": 1559222888861,
+    "relativePath": "res\\积木组\\积木_0002s_0016_017.png"
+  },
+  "32f60602-d45d-4c52-908b-efe02613f789": {
+    "asset": 1559222887860,
+    "meta": 1559222888893,
+    "relativePath": "res\\积木组\\积木_0002s_0017_018.png"
+  },
+  "c2c596c0-f2d5-49a9-82b0-6c8953fa11f3": {
+    "asset": 1559222887860,
+    "meta": 1559222888901,
+    "relativePath": "res\\积木组\\积木_0002s_0018_019.png"
+  },
+  "483e02af-6f47-46d4-b821-a4031cc81f70": {
+    "asset": 1559222887871,
+    "meta": 1559222888930,
+    "relativePath": "res\\积木组\\积木_0002s_0019_020.png"
+  },
+  "172a8866-d387-4428-bb25-8a34c8a80c60": {
+    "asset": 1559222887860,
+    "meta": 1559222888937,
+    "relativePath": "res\\积木组\\积木_0002s_0020_021.png"
+  },
+  "b5688df7-1348-4443-87c3-ac7418e1253f": {
+    "asset": 1559222887871,
+    "meta": 1559222888968,
+    "relativePath": "res\\积木组\\积木_0002s_0021_022.png"
+  },
+  "e1b1c128-3224-4584-94a7-3fe481ae3b0c": {
+    "asset": 1559222895938,
+    "meta": 1559222895857,
+    "relativePath": "res\\积木组\\积木组"
+  },
+  "d9a8b6f2-a745-4efa-a3fb-84d343bd6efd": {
+    "asset": 1559222895837,
+    "meta": 1559222895979,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0001_10.png"
+  },
+  "a9533d6c-7dc3-4788-b3d3-fd30a2434711": {
+    "asset": 1559222895837,
+    "meta": 1559222895987,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0000_11.png"
+  },
+  "83fce576-9086-496e-9cb5-8f98c10b0527": {
+    "asset": 1559222895837,
+    "meta": 1559222896017,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0003_16.png"
+  },
+  "9ece5ab6-97c1-47fe-9e33-26c6cb2d7c27": {
+    "asset": 1559222895837,
+    "meta": 1559222896026,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0002_2.png"
+  },
+  "6ff9f491-a8ca-4083-86ed-4aba4aca6e46": {
+    "asset": 1559222895837,
+    "meta": 1559222896055,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0004_17.png"
+  },
+  "a26b4a8d-2097-4324-b756-52612947d25d": {
+    "asset": 1559222895837,
+    "meta": 1559222896062,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0005_19.png"
+  },
+  "72fc89c0-4aac-4ec5-a161-49f32848a98f": {
+    "asset": 1559222895837,
+    "meta": 1559222896095,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0006_18.png"
+  },
+  "7e8d1dee-aa37-46b7-a2ba-29da48a788fb": {
+    "asset": 1559222895837,
+    "meta": 1559222896103,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0007_14.png"
+  },
+  "e27867c4-e513-47a7-a109-2bb54a651e03": {
+    "asset": 1559222895837,
+    "meta": 1559222896135,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0008_3.png"
+  },
+  "81191161-b648-4469-bf4d-c18bda129d2a": {
+    "asset": 1559222895838,
+    "meta": 1559222896143,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0009_1.png"
+  },
+  "495f228b-0eaa-46fa-b205-71552cc2749b": {
+    "asset": 1559222895837,
+    "meta": 1559222896176,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0010_6.png"
+  },
+  "28c1aaba-8e4f-432a-98f3-ea8fb456f96c": {
+    "asset": 1559222895837,
+    "meta": 1559222896183,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0011_4.png"
+  },
+  "b0a1d2f7-904d-4a10-a721-c3b41d5402c8": {
+    "asset": 1559222895837,
+    "meta": 1559222896215,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0012_7.png"
+  },
+  "960c775e-30da-4709-921f-6afdedab0219": {
+    "asset": 1559222895839,
+    "meta": 1559222896223,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0013_5.png"
+  },
+  "9dcacd47-1682-4df4-ba4c-55a90ce9c075": {
+    "asset": 1559222895839,
+    "meta": 1559222896258,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0015_23.png"
+  },
+  "1bdd6495-76f9-4aef-a25f-0747baffc766": {
+    "asset": 1559222895839,
+    "meta": 1559222896265,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0014_9.png"
+  },
+  "91ca862c-71c6-42f3-a9be-8df0b53c79cb": {
+    "asset": 1559222895839,
+    "meta": 1559222896299,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0016_22.png"
+  },
+  "96187d10-4e19-40bb-bbb4-867e477bf5c1": {
+    "asset": 1559222895839,
+    "meta": 1559222896307,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0017_8.png"
+  },
+  "d7a86166-816b-421f-aa24-6701232290ae": {
+    "asset": 1559222895839,
+    "meta": 1559222896338,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0019_20.png"
+  },
+  "b738127b-9772-43cf-a344-44a18b43213a": {
+    "asset": 1559222895839,
+    "meta": 1559222896346,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0018_21.png"
+  },
+  "ea8b2ba1-fd14-4fed-9f7b-716427cb4648": {
+    "asset": 1559222895839,
+    "meta": 1559222896380,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0020_13.png"
+  },
+  "f23e5cf3-2dfd-4e77-b6f7-27132b1b51a4": {
+    "asset": 1559222895853,
+    "meta": 1559222896387,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0021_12.png"
+  },
+  "79aa86fd-21f2-4fbf-9120-12ed5116355f": {
+    "asset": 1559222895839,
+    "meta": 1559222896423,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0023_24.png"
+  },
+  "56c6f022-a3bf-478d-ac7a-1469c026ad55": {
+    "asset": 1559222895839,
+    "meta": 1559222896430,
+    "relativePath": "res\\积木组\\积木组\\积木_0000s_0022_25.png"
+  },
+  "60f8fbe6-9341-463f-a666-67d384f9c0f6": {
+    "asset": 1559227128011,
+    "meta": 1559227167938,
+    "relativePath": "scripts\\game\\getCosine.js"
+  },
+  "6fbe7120-d846-4583-a06b-3ef41b8e93d6": {
+    "asset": 1559227265675,
+    "meta": 1559227268487,
+    "relativePath": "scripts\\game\\getss.js"
+  },
+  "7e2968ed-9c2c-4f6f-ae0f-ef0339a9d5c2": {
+    "asset": 1559228265294,
+    "meta": 1559228268127,
+    "relativePath": "scripts\\game\\bar_cosine.js"
+  },
+  "6ef7600f-b824-4490-9d04-e7b7b2f8d45e": {
+    "asset": 1559282558284,
+    "meta": 1559283439793,
+    "relativePath": "scripts\\common\\script\\basic\\Globals.js"
+  },
+  "395c3130-4903-4f2c-8d12-82164ca8c491": {
+    "asset": 1559284713713,
+    "meta": 1559285389075,
+    "relativePath": "scripts\\game\\block.js"
+  },
+  "71bef84c-8ce6-4b2b-8910-a8e638c8d999": {
+    "asset": 1559285242526,
+    "meta": 1559285389238,
+    "relativePath": "scripts\\common\\script\\basic\\gameManager.js"
+  },
+  "44426ac4-938d-43b1-a7bc-2cbcab5cd9d7": {
+    "asset": 1559285386407,
+    "meta": 1559285389265,
+    "relativePath": "scripts\\game\\uiGamePanel.js"
+  },
+  "21ceeec8-d7c3-4523-89f2-310bedb52731": {
+    "asset": 1559287186472,
+    "meta": 1559287188376,
+    "relativePath": "scripts\\game\\changBackground.js"
+  },
+  "ffd04306-2617-4736-a7a2-dae61e994b0e": {
+    "asset": 1559289252445,
+    "meta": 1559289258056,
+    "relativePath": "scripts\\game\\btn_eyesClosed.js"
+  },
+  "72f2fd5c-6066-4e84-8672-aaf7affab5b2": {
+    "asset": 1559298861793,
+    "meta": 1559298867099,
+    "relativePath": "scripts\\common\\script\\uiRoom.js"
+  },
+  "fb82de52-affd-499d-96de-2bfafcba2fed": {
+    "asset": 1559299020836,
+    "meta": 1559299022197,
+    "relativePath": "scripts\\common\\script\\uiLogin.js"
+  }
+}

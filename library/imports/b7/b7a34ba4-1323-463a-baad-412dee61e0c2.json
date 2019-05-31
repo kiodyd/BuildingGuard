@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黄鹤楼(25)",
+    "texture": "c081dd89-e5c7-458a-9347-a89f38a8c4fe",
+    "atlas": "",
+    "rect": [
+      49,
+      282,
+      358,
+      475
+    ],
+    "offset": [
+      0,
+      -141
+    ],
+    "originalSize": [
+      456,
+      757
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

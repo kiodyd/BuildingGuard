@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "79aa86fd-21f2-4fbf-9120-12ed5116355f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "积木_0000s_0023_24": {
+      "ver": "1.0.3",
+      "uuid": "cb845d7b-8fa3-4e74-947f-7929f7594d9f",
+      "rawTextureUuid": "79aa86fd-21f2-4fbf-9120-12ed5116355f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 89,
+      "rawWidth": 60,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "投票标题框",
+    "texture": "8f91d050-45c2-4103-9953-e524b917d1f7",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      170,
+      246
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      170,
+      247
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

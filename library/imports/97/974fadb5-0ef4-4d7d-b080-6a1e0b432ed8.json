@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红色警示框大",
+    "texture": "732cef94-52cd-4628-b029-c59145fea6dd",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      160,
+      160
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      161,
+      161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "本轮投票 小黑 玩家被投出！",
+    "texture": "1fbe9c69-48cf-4264-be19-0bf70b31e339",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

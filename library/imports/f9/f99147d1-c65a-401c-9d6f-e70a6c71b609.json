@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "按钮红",
+    "texture": "8d1bc431-0feb-4f46-85cc-6ad0460d7c5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      52
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      76,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

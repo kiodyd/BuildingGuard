@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黄鹤楼线框",
+    "texture": "2dc02b43-5d3b-4431-936a-e6d287f8948f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      366,
+      481
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      366,
+      481
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

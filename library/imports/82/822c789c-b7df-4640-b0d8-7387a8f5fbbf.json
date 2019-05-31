@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "弹出框@3x",
+    "texture": "5ba740da-e8f3-46c4-a278-57af4d4872fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1350,
+      900
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1350,
+      900
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

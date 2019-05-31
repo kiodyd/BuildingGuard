@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "装饰线右",
+    "texture": "e5f4728f-6208-4c64-a92b-edc7c697d7b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

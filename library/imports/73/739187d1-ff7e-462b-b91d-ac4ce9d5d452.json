@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "你是破坏者！",
+    "texture": "c1b69f4e-076b-4967-80b9-4af4bef1dffa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

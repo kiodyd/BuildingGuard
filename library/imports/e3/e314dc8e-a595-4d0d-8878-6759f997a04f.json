@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "游戏规则",
+    "texture": "0c0fb21e-08d7-4ee1-8b72-7e9834a15b93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

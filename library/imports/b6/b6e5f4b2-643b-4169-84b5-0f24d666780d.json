@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "祥云 拷贝 2",
+    "texture": "2467eaea-f4a1-4ce1-9caa-37df2e7701d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

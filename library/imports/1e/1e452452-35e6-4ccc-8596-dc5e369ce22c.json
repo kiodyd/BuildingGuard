@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "进度框",
+    "texture": "40d3f05a-3f7b-4f2c-afe2-6bac20555092",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      420
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      420
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

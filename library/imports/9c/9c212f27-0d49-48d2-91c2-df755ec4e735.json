@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "按钮点击状态",
+    "texture": "b1aad129-f28b-4e48-8bf1-bb87f885b74c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

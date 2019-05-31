@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "你是破坏者！ 不可以查看蓝图哦",
+    "texture": "e0134770-bab7-45b7-a809-43758b5ea9bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      414,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      414,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

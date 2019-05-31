@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "破坏者",
+    "texture": "6c0561f3-b81f-44d3-8f48-30a7645352a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

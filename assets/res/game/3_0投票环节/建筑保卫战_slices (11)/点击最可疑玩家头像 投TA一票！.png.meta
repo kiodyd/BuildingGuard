@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2572bcd8-e86e-477d-9e76-ae8584fd2dad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "点击最可疑玩家头像 投TA一票！": {
+      "ver": "1.0.3",
+      "uuid": "b2f839d5-bfba-421f-a1f8-b4525e0847de",
+      "rawTextureUuid": "2572bcd8-e86e-477d-9e76-ae8584fd2dad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 350,
+      "height": 93,
+      "rawWidth": 350,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

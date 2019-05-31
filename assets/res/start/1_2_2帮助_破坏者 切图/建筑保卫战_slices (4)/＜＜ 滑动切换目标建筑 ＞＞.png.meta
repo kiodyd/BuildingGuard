@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a7420595-659d-4646-9cbf-848a00604397",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "＜＜ 滑动切换目标建筑 ＞＞": {
+      "ver": "1.0.3",
+      "uuid": "9df53f76-b67c-470d-a57a-7542c92ba43f",
+      "rawTextureUuid": "a7420595-659d-4646-9cbf-848a00604397",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 452,
+      "height": 24,
+      "rawWidth": 452,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

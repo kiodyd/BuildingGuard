@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "邀请按钮",
+    "texture": "ed00dc64-26e0-4be5-b581-e03ec585b885",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

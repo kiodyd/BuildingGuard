@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2dc02b43-5d3b-4431-936a-e6d287f8948f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "黄鹤楼线框": {
+      "ver": "1.0.3",
+      "uuid": "858fa673-8deb-4a11-9d87-4bacf5af48a2",
+      "rawTextureUuid": "2dc02b43-5d3b-4431-936a-e6d287f8948f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 366,
+      "height": 481,
+      "rawWidth": 366,
+      "rawHeight": 481,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "保卫者形象小",
+    "texture": "dd718a9c-172d-49bc-89f2-df60e6231164",
+    "atlas": "",
+    "rect": [
+      0,
+      25,
+      130,
+      131
+    ],
+    "offset": [
+      -0.5,
+      -9
+    ],
+    "originalSize": [
+      131,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

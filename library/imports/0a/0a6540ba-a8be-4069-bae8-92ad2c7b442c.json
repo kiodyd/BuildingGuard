@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "进度条",
+    "texture": "ecacd8da-58cf-44fc-952b-13696df25a69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      300
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

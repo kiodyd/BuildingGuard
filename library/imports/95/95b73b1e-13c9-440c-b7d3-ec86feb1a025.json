@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "钉子3",
+    "texture": "4f0fbb90-31fe-468c-95b8-8968abb269a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      47
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      27,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

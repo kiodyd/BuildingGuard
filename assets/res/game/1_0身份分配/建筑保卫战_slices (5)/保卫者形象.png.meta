@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3fea43be-6375-4bc5-96c9-7ae413dff20c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "保卫者形象": {
+      "ver": "1.0.3",
+      "uuid": "7902ac41-6190-4b05-b45d-aa64f0362a68",
+      "rawTextureUuid": "3fea43be-6375-4bc5-96c9-7ae413dff20c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 180,
+      "rawWidth": 144,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

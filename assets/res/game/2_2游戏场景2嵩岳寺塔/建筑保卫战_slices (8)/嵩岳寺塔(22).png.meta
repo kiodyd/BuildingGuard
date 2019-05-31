@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d8d14980-eba2-4fdd-96cf-7b13fc9f0bb2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "嵩岳寺塔(22)": {
+      "ver": "1.0.3",
+      "uuid": "3d96074b-7cc5-450b-9f53-aa9e2dda7f70",
+      "rawTextureUuid": "d8d14980-eba2-4fdd-96cf-7b13fc9f0bb2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 360,
+      "height": 389,
+      "rawWidth": 361,
+      "rawHeight": 390,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

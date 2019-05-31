@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始按钮未点击状态",
+    "texture": "fa3764a8-4af3-4025-aa13-898651689e7c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      110
+    ],
+    "offset": [
+      -6,
+      7
+    ],
+    "originalSize": [
+      312,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

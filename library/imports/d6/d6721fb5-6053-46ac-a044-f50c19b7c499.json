@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "胜利白色背景",
+    "texture": "5d54f784-922a-458b-b86b-5c16b7f2e76c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      268
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      268
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
